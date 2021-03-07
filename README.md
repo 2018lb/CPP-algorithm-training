@@ -1,3 +1,3 @@
 # CPP-algorithm-training
 
-https://www.nowcoder.com/test/8537279/summary
+再多努力一下吧
